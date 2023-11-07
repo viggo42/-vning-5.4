@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\bin\Debug\övning 5.4.exe.config
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\bin\Debug\övning 5.4.exe
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\bin\Debug\övning 5.4.pdb
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning 5.4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning_5._4.Form1.resources
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning_5._4.Properties.Resources.resources
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning 5.4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning 5.4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning 5.4.exe
+C:\Users\Administrator\source\repos\övning 5.4\övning 5.4\obj\Debug\övning 5.4.pdb
